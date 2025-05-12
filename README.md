@@ -9,3 +9,4 @@ It generates a configurable number of random GET requests and sends them to the 
 ```
 dotnet run <IP> <PORT> <COUNT OF PACKAGES>
 ```
+//created by a group of fsociety
