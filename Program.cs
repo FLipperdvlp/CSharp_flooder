@@ -11,9 +11,9 @@ class Program
     private static int threadNum = 0;
     private static readonly object threadNumMutex = new object();
 
-    private static string host = "Minecraft";
-    private static string ip = "185.237.204.213";
-    private static int port = 21;
+    private static string host = "";
+    private static string ip = "";
+    private static int port = 0;
     private static int numRequests = 0;
 
     static void Main(string[] args)
