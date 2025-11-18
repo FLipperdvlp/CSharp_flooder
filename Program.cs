@@ -115,4 +115,3 @@ class Program
         }
     }
 }
-//Created by a group of anonymous fans of the group fsociety :)
